@@ -4,6 +4,7 @@ int r_motor2 = 8;
 int l_motor1 = 3;              //backward wheels
 int l_motor2 = 4;
 
+
 int value = 255;   // value set to maximum
 char temp = 'g';   //temp value to kill commands
 int val = 200;
