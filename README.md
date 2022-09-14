@@ -1,0 +1,3 @@
+# soccer_bot
+
+A dumb shit for passing time ................. 
